@@ -3,8 +3,6 @@
  for testing => `npm run test`
  for building => `npm run build`
  for starting => `npm run start`
- for Prettify => `npm run prettify`
- for Lint => `npm run lint`
 
 # 2-Endpoints:
  /
