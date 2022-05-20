@@ -158,4 +158,4 @@ images.get(
   }
 )
 
-export default images
+export default { images , createThumbImage}

@@ -1,8 +1,8 @@
 import express from 'express'
-import images from './api/images'
+import imagesModule from './api/images'
 
 const routes: express.Router = express.Router()
 
-routes.get('/', images)
+routes.get('/', imagesModule.images)
 
 export default routes
